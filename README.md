@@ -1,33 +1,34 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges" align="center" >
-  <a href="https://www.linkedin.com/in/asta-nozel-944b8829b/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.youtube.com/@wqb2">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-</div>
-<h1 align="center">
-  Welcome to my profile
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+# 💫 About Me:
 
-### :woman_technologist: About Me :
-I am a Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Morocco.
-- :telescope: I’m working as a person that work not for spending time but from loving this .
+ - I am a Developer and CTF Player <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Morocco, currently studying at Al Akhawayn University (AUI).
 
-- :seedling: Exploring Technical Content Writing.
+ - 🧠 Passionate about cybersecurity, problem-solving, and programming challenges.
 
-- :zap: In my free time, I solve problems on leetcode and read tech articles.
+ - :telescope: I’m working not just to pass the time, but because I truly love building, breaking, and learning.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Asta-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/asta-nozel-944b8829b/)
+ - :seedling: Exploring technical content writing, reverse engineering, and CTF challenge creation.
 
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bouaafia&theme=dark&background=000000)](https://github.com/bouaafia)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bouaafia&layout=compact&theme=dark)](https://github.com/bouaafia)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=bouaafia&theme=onedark)](https://github.com/bouaafia)
 
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amiinee.bou) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bouaafiastudies@gmail.com) 
+
+# 💻 Tech Stack:
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=bouaafia&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=bouaafia&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bouaafia&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=bouaafia&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+[![](https://visitcount.itsvg.in/api?id=bouaafia&icon=1&color=8)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
